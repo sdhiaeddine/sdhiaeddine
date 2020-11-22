@@ -3,8 +3,14 @@
 
 I'm a software engineer based in Rennes, France
 
-![Sdhiaeddine's github stats](https://github-readme-stats.vercel.app/api?username=sdhiaeddine&show_icons=true&count_private=true)
+---
 
+<img src="https://github-readme-stats.vercel.app/api?username=sdhiaeddine&show_icons=true&count_private=true)" align="left" hspace="10" vspace="10"></a>
+
+<p align="center">
+  <a target="_blank" href="https://twitter.com/sdhiaeddine"><img src="https://img.shields.io/twitter/follow/sdhiaeddine.svg?style=social" /></a>
+  <a target="_blank" href="https://github.com/sdhiaeddine"><img src="https://img.shields.io/github/followers/sdhiaeddine?style=social" /></a>
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/-kotlin-blue" />
