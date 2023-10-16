@@ -27,7 +27,7 @@ I'm a software engineer based in Rennes, France
 
 </br>
 <!--
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sdhiaeddine&layout=default&card_width=500)](https://github.com/sdhiaeddine/github-readme-stats) -->
+[![Top Langs](https://github-readme-stats-sdhiaeddines-projects.vercel.app/api/top-langs/?username=sdhiaeddine&layout=default&card_width=500)](https://github.com/sdhiaeddine/github-readme-stats) -->
 <!--
 **sdhiaeddine/sdhiaeddine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
