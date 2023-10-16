@@ -5,7 +5,7 @@ I'm a software engineer based in Rennes, France
 
 ---
 
-<img src="https://github-readme-stats.vercel.app/api?username=sdhiaeddine&show_icons=true&count_private=true)" align="left" hspace="10" vspace="10"></a>
+<img src="https://github-readme-stats-sdhiaeddines-projects.vercel.app/api?username=sdhiaeddine&show_icons=true&count_private=true)" align="left" hspace="10" vspace="10"></a>
 
 <p align="center">
   <a target="_blank" href="https://twitter.com/sdhiaeddine"><img src="https://img.shields.io/twitter/follow/sdhiaeddine.svg?style=social" /></a>
